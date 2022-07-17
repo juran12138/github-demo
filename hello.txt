@@ -1,5 +1,22 @@
-hello java! hello git!111111111
+<<<<<<< HEAD
 hello java! hello git!
+=======
+hello java! hello git!11112222
+hello java! hello git!
+hello java! hello git!11112222
+hello java! hello git!11112222
+hello java! hello git!11112222
+hello java! hello git!11112222
+hello java! hello git!11112222
+hello java! hello git!11112222
+hello java! hello git!11112222
+hello java! hello git!11112222
+hello java! hello git!11112222
+hello java! hello git!11112222
+hello java! hello git!11112222
+hello java! hello git!11112222
+hello java! hello git!11112222
+>>>>>>> hot-fix
 hello java! hello git!
 hello java! hello git!
 hello java! hello git!
